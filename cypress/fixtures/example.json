@@ -1,0 +1,16 @@
+{
+  "name": "usernameTest",
+  "email": "email_test123@cypress.io",
+  "password": "123456",
+  "days": "1",
+  "months": "January",
+  "years": "2000",
+  "first_name": "Test firstname",
+  "last_name": "lastname",
+  "address": "537 Augusta Park",
+  "country": "United States",
+  "state": "Illinois",
+  "city": "Nauvoo",
+  "zipcode": "62354",
+  "mobile_number": "0123456789"
+}
